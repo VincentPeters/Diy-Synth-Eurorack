@@ -1,0 +1,49 @@
+Designator,Package,Quantity,Designation,Supplier and ref
+U2,TO-92_Inline_Wide,1,TL431,rapidonline.com/texas-instruments-tl431clp-precision-regulator-82-0298
+"J25,J27,J29",8 Pin Headers Male for connecting boards,3,"MAIN A,MAIN B, MAIN C",https://www.ebay.co.uk/itm/Female-Male-Header-Pins-Strip-0-1-2-54mm-for-Breadboard-PCB-DuPont-arduino-pi/362947699737?var=632071630604&_trkparms=ispr%3D1&hash=item54815e6419:m:m_rPNY5AVKZ5KstWj8Cu9rA&enc=AQAEAAACcIQvEcHUrT7nmUC3yY5qbPyaBN1nJEDYW8MyypsJPgXKs4ijYSTGv0%2BdOMHOyVlosEvhK%2Bz0EF2fWAaYJunv84KaDfFCAfFMu9UzeYhr3kLDiB0ehxAYFeWMUkLzqkPMKTHyAgQJTCfugciMeV1f4N16dRJZxDipHIcKFFUJVvI6n7O5qu1J%2Fn7PoHHoLsuFLoYZp8lAZCXeDns9x9oRll%2FYZP4JK61F29qQjJLG3fcfPypWsUva5eOofBTn1XejMyu4Xofs5MePEHXK5VlhGl3j3TpEuAmUGYDMbLps7m8JBiJitap68%2Fl1oHJmUwKCSwfqWXv7HWuFW8r2GOL%2Fc4V3%2BDi7jVzcP4YN69Cv0M94pYYq8%2BX0ZXTYy0spXEkPePuwmwfqPpeGaUf%2B8txAgt0y0rPMu%2FkVYenJ28d%2FSpNghRCzslPjFzEMguZyWrAfRSWV8O7MI6gna%2FKzY8Czu8QMgnqCf1Q2fqE7Yp5HehAbQLJSdQJ8F5dS67a%2BS3Nd8VKrF21%2F879boa%2FjdgBM30CbLC5hIMfFYPF%2FjG5QPWdwjgA%2BRSHUJGdRfVr4i97Vd%2BG1VtvyJC15IMKjhHWkeWb%2FPVx%2FrmRLBGmbl2LXbGU0c7FsvV7TWUbFhh6S1rQbUxsyZpTDm1YosAKMY5Raqmt%2Ft%2BN%2BDVjT8ZY%2F9cr3IdAw0owO7A00502U0F6zUF4L02%2FRFjs7ZhWwrhD5M8JshK%2BjYExvSNVMAZk34MFdOpIJ45klHHdeVBa3rt55N4F%2FqK%2FHMbL1C6u8SGsjKLf7SOkXJqCNXBNnmDSxX5j%2FoJ3qs6KT%2Bjf7IdoJuqlwYbKyMg%3D%3D&checksum=36294769973742bb1f3266064222af6db071631768ac
+J1,Multicomp_MC9A12-1034_2x05_P2.54mm_Vertical,1,Eurorack STYLE POWER,https://www.rapidonline.com/truconnect-10-way-idc-straight-boxed-header-2-54mm-pitch-19-0033
+"C2,C1,C3",CP_Radial_D6.3mm_P2.50mm,3,10uf,https://www.rapidonline.com/forever-10uf-20-35v-105-c-p-2mm-radial-electrolytic-capacitor-11-1220
+"C5,C14,C15,C16,C17,C24,C25,C28",Ceramic Capacitor,8,100nf,https://www.rapidonline.com/suntan-ts170r1h104msbfa0r-0-1uf-20-50v-y5v-p-2-54mm-radial-ceramic-capacitor-11-3455
+"C6,C7",Ceramic Capacitor,2,22pf,https://www.rapidonline.com/suntan-ts15001h220ksbna0r-22pf-10-50v-np0-2-5mm-ceramic-disc-capacitor-08-0046
+"C8,C9,C10,C11,C12,C13,C18,C19,C20,C21,C22,C23",Ceramic Capacitor,12,10nf,https://www.rapidonline.com/suntan-ts15001h103zsbva0r-10nf-20-80-50v-2-5mm-z5v-ceramic-disc-capacitor-08-0232
+C4,TANTALUM CAPACITOR 1uf,1,1uf TANTALUM,https://www.rapidonline.com/suntan-ts19001v010msb0b0r-1uf-35v-5-08mm-tantalum-bead-capacitor-11-0688
+D1,Signal Diode,1,1N4148,https://www.rapidonline.com/dc-components-1n4148-pack-of-5000-signal-diode-75v-47-3415
+"J2,J4,J5",Molex 3 pin male,3,"MIDI THRU, IN",https://www.rapidonline.com/jyk-p2500-03-3-pole-straight-header-22-0955
+"J3, J6",Molex 2 pin male,2,CHAIN IN/OUT,https://www.rapidonline.com/jyk-p2500-02-2-pole-straight-header-22-0950
+,Molex 2 pin Female,1,CHAIN IN,https://www.rapidonline.com/jyk-h2500-02-2-pole-crimp-housing-22-0905
+"R2,R3",Metal Film Resistor 1/4Watt,2,10R,https://www.ebay.co.uk/itm/1-4W-Metal-Film-Resistors-1-Values-1ohm-to-10Mohm-12-25-50-100/321411096993?_trkparms=ispr%3D1&hash=item4ad59821a1:m:mGLiWyHVPZnLKxYU9vqtAIQ&enc=AQAEAAACcIQvEcHUrT7nmUC3yY5qbPyaBN1nJEDYW8MyypsJPgXKtMiVu7s8Kj2Ur48i56ldd0lJQDAeQlsqlKbG75XfFX1WbMQ66s5hf51%2BIeQl%2FZNx99U1H%2B6lzzlUUOVwDeMdCC7bYOWfii4adTWZvk22wHnfyhHx1qJsP5FxCaTVsN1Fk7ffveJT%2FzkUBeED0g4THVUE%2BllXKzXlQCMQsZ16E%2B99DhAi1QGcv4IqtGM4shexE%2FtC7BxMuCGmaREQg7jm13jmBZDKycFkNpqxeQwarSom8ooA6FbpqRh98zyonQX4PFSl2SZ3s%2Bk7mC%2BPuGyRyrJZdaDA3G9Q48rssmJvrPHlUQ08mL0a7on0U9S2xxqGftO2pE6q%2Bgy2Y743MOJFWV6WtNQ0nRDxJRyLXH3NLm0duh7vGOU0yARXwXw86f8Cul6QybbsjZR6Jj8gCjMLO4MhI8JIVCGZsH%2FqG0MAgoC5%2Fce50a3UtjYm5OK1Xrhpm1fLlTvKVLG1V6wncXh2LBDtBuKU0N2Kt6RscEmI34yhgIZ0lf2Y0aP6PmsCtl357TuTN0lha71xWmoAtlB9oXc6bXpkaf%2F8piSuT4WdRysPGgkOOD6MUdm%2Bh%2FvMAx5mTGrInaKeDzlS%2Fu%2Fq1HNyJNU8836S0yGL9gP5GXwzP3qSEwDJj8SCfA5qJH3QTeOxNlxEd2w3a7zg0iaJccj9M3GkH8elSjgDs6G4TVg4h3HQWXNbGPT57iMJwePaSx125rOrHgKbPCoFTLNxjZ%2BBvRvh5U1bpmGn9ZuYAgjbLU%2FhdtTSSuAi0vCtZeFU9qecgk6nh7qXGYcIbuBv%2FFNJXQ%3D%3D&checksum=3214110969933dcef916f57545e69111b2f9697937bd
+R4,Metal Film Resistor 1/4Watt,1,5k1,
+"R6,R20,R21,R23,R24,R44",Metal Film Resistor 1/4Watt,6,220r,
+"R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18",Metal Film Resistor 1/4Watt,12,100k,
+"R19,R5",Metal Film Resistor 1/4Watt,2,10k,
+"R1,R22,R27",Metal Film Resistor 1/4Watt,1,1k,
+R26,Metal Film Resistor 1/4Watt,1,270r,
+U1,28 pin IC (plus 28 pin IC socket or 2 14 Pin IC sockets),1,MIDIMUSO CHIP INCLUDED WITH KIT,
+"U4,U5",IC 16 pin (plus 16 pin IC socket),2,TI4504 (ignore MI14504) INCLUDED WITH KIT,
+U6,Opto Coupler (and 8 pin ic socket),1,6N137,https://www.ebay.co.uk/itm/6N137-VERY-HIGH-SPEED-LOGIC-GATE-Optocoupler-Electronic-Component/371154577600?hash=item566a8968c0:g:mKUAAOSwDk5ULAIq
+"U7,U8,U9",TL074 Quad Opamp (and 14 pin ic socket),3,TL074,https://www.rapidonline.com/Catalogue/Search?Query=tl074&Size=20
+U10,14 Pin IC (and 14 pin ic socket),1,74LS14,https://www.ebay.co.uk/itm/FAIRCHILD-DM74LS14N-HEX-INVERTER-WITH-SCHMITT-TRIGGER-14PIN-QTY-1/114094504883?hash=item1a908ffbb3:g:xUgAAOSw~QdeNY69
+Y1,Crystal_HC18-U_Vertical,1,16Mhz,https://www.rapidonline.com/16mhz-20ppm-hc49s-ael-low-profile-crystal-90-2378
+U3,TO-92_Inline_Wide 78L05,1,L78L05_TO92,https://www.rapidonline.com/trusemi-da78l05-voltage-regulator-5v-100ma-to92-47-3612
+RV1,Potentiometer_Bourns_Trimpot,1,5K Trim,https://www.rapidonline.com/suntan-tsr-3296w-502r-5k-wr3296w-10-3-8-cermet-trimmer-pot-68-1945
+RV2,Potentiometer_Bourns_Trimpot,1,10K Trim,https://www.rapidonline.com/suntan-tsr-3296w-103r-10k-wr3296w-10-3-8-cermet-trimmer-pot-68-1946
+M3 Standoffs would be good to hold in  like linked,10mm (not like pictured in the link but they are the right ones,4,,https://www.rapidonline.com/pb-fastener-s45530x10-zinc-plated-steel-m-f-spacers-m3-x-10mm-pack-of-10-49-0932
+4 m3 bolts and nuts,,,,https://www.rapidonline.com/affix-stainless-steel-nuts-m3-pack-of-100-33-4305
+"Yes they are packs of 100, but you’ll end up using them!",,,,https://www.rapidonline.com/affix-pozi-pan-head-machine-screws-bzp-m3-6mm-pack-of-100-33-2300
+Please note the above is only for the back board. Below is for the control board,,,,
+"J30,J28,J26",8 Pin Headers Female for connecting boards,3,"DAUGHTER A,B,C",https://www.ebay.co.uk/itm/Female-Male-Header-Pins-Strip-0-1-2-54mm-for-Breadboard-PCB-DuPont-arduino-pi/362947699737?var=632071630604&_trkparms=ispr%3D1&hash=item54815e6419:m:m_rPNY5AVKZ5KstWj8Cu9rA&enc=AQAEAAACcIQvEcHUrT7nmUC3yY5qbPyaBN1nJEDYW8MyypsJPgXKs4ijYSTGv0%2BdOMHOyVlosEvhK%2Bz0EF2fWAaYJunv84KaDfFCAfFMu9UzeYhr3kLDiB0ehxAYFeWMUkLzqkPMKTHyAgQJTCfugciMeV1f4N16dRJZxDipHIcKFFUJVvI6n7O5qu1J%2Fn7PoHHoLsuFLoYZp8lAZCXeDns9x9oRll%2FYZP4JK61F29qQjJLG3fcfPypWsUva5eOofBTn1XejMyu4Xofs5MePEHXK5VlhGl3j3TpEuAmUGYDMbLps7m8JBiJitap68%2Fl1oHJmUwKCSwfqWXv7HWuFW8r2GOL%2Fc4V3%2BDi7jVzcP4YN69Cv0M94pYYq8%2BX0ZXTYy0spXEkPePuwmwfqPpeGaUf%2B8txAgt0y0rPMu%2FkVYenJ28d%2FSpNghRCzslPjFzEMguZyWrAfRSWV8O7MI6gna%2FKzY8Czu8QMgnqCf1Q2fqE7Yp5HehAbQLJSdQJ8F5dS67a%2BS3Nd8VKrF21%2F879boa%2FjdgBM30CbLC5hIMfFYPF%2FjG5QPWdwjgA%2BRSHUJGdRfVr4i97Vd%2BG1VtvyJC15IMKjhHWkeWb%2FPVx%2FrmRLBGmbl2LXbGU0c7FsvV7TWUbFhh6S1rQbUxsyZpTDm1YosAKMY5Raqmt%2Ft%2BN%2BDVjT8ZY%2F9cr3IdAw0owO7A00502U0F6zUF4L02%2FRFjs7ZhWwrhD5M8JshK%2BjYExvSNVMAZk34MFdOpIJ45klHHdeVBa3rt55N4F%2FqK%2FHMbL1C6u8SGsjKLf7SOkXJqCNXBNnmDSxX5j%2FoJ3qs6KT%2Bjf7IdoJuqlwYbKyMg%3D%3D&checksum=36294769973742bb1f3266064222af6db071631768ac
+Q1,2n3904 TRANSISTOR,1,2n3904,https://www.rapidonline.com/trusemi-2n3904-transistor-npn-to92-60v-81-0484
+"J7,J8,J9,J10,J11,J12,J13,J14,J15… up to J30",BIG JACK SOCKETS,18,,https://www.rapidonline.com/truconnect-3-pole-box-style-jack-socket-20-1397
+"D2,D3,D4,D7,D8,D11,D12",5mm LED’s,7,,https://www.rapidonline.com/kingbright-l-7113src-dv-5mm-super-bright-red-led-1600mcd-55-0131
+"R25,R28,R29,R35,R40,R41,R52",Metal Film Resistor 1/4Watt,7,1k,https://www.ebay.co.uk/itm/1-4W-Metal-Film-Resistors-1-Values-1ohm-to-10Mohm-12-25-50-100/321411096993?_trkparms=ispr%3D1&hash=item4ad59821a1:m:mGLiWyHVPZnLKxYU9vqtAIQ&enc=AQAEAAACcIQvEcHUrT7nmUC3yY5qbPyaBN1nJEDYW8MyypsJPgXKtMiVu7s8Kj2Ur48i56ldd0lJQDAeQlsqlKbG75XfFX1WbMQ66s5hf51%2BIeQl%2FZNx99U1H%2B6lzzlUUOVwDeMdCC7bYOWfii4adTWZvk22wHnfyhHx1qJsP5FxCaTVsN1Fk7ffveJT%2FzkUBeED0g4THVUE%2BllXKzXlQCMQsZ16E%2B99DhAi1QGcv4IqtGM4shexE%2FtC7BxMuCGmaREQg7jm13jmBZDKycFkNpqxeQwarSom8ooA6FbpqRh98zyonQX4PFSl2SZ3s%2Bk7mC%2BPuGyRyrJZdaDA3G9Q48rssmJvrPHlUQ08mL0a7on0U9S2xxqGftO2pE6q%2Bgy2Y743MOJFWV6WtNQ0nRDxJRyLXH3NLm0duh7vGOU0yARXwXw86f8Cul6QybbsjZR6Jj8gCjMLO4MhI8JIVCGZsH%2FqG0MAgoC5%2Fce50a3UtjYm5OK1Xrhpm1fLlTvKVLG1V6wncXh2LBDtBuKU0N2Kt6RscEmI34yhgIZ0lf2Y0aP6PmsCtl357TuTN0lha71xWmoAtlB9oXc6bXpkaf%2F8piSuT4WdRysPGgkOOD6MUdm%2Bh%2FvMAx5mTGrInaKeDzlS%2Fu%2Fq1HNyJNU8836S0yGL9gP5GXwzP3qSEwDJj8SCfA5qJH3QTeOxNlxEd2w3a7zg0iaJccj9M3GkH8elSjgDs6G4TVg4h3HQWXNbGPT57iMJwePaSx125rOrHgKbPCoFTLNxjZ%2BBvRvh5U1bpmGn9ZuYAgjbLU%2FhdtTSSuAi0vCtZeFU9qecgk6nh7qXGYcIbuBv%2FFNJXQ%3D%3D&checksum=3214110969933dcef916f57545e69111b2f9697937bd
+"R30,R31,R36,R37,R42,R43,R32,R33,R34,R38,R39,R45,R46,R47,R48,R49,R50,R51 Metal Film Resistor 1/4Watt",,18,100r,
+U11,TL074 Quad Opamp (and 14 pin ic socket),1,TL074,https://www.rapidonline.com/Catalogue/Search?Query=tl074&Size=20
+U12,TL072 Dual Opamp (and 8 pin ic socket),1,TL072,https://www.rapidonline.com/Catalogue/Search?Query=tL072
+"C27,C29",100nf Ceramic Capacitor,2,100nf,https://www.rapidonline.com/suntan-ts170r1h104msbfa0r-0-1uf-20-50v-y5v-p-2-54mm-radial-ceramic-capacitor-11-3455
+MIDI SOCKETS,,3,,https://www.rapidonline.com/truconnect-5-pin-180-din-chassis-socket-20-0255
+Use the M3 bolts you bought above to screw in the midi sockets :),,,,
+You’ll need some wire to connect the midi sockets to the molex connectors,,,,
+"Molex 3 pin female to attach too above J2,J4,J5, Check orientation on images.",,,,
+https://www.rapidonline.com/jyk-h2500-03-3-pole-crimp-housing-22-0910,,,,
+You probably have the metal bits that go in the molex connectors from previous builds but below is the link anyway,,,,
+https://www.rapidonline.com/jyk-t2500-02-reel-1000-0-1-crimp-terminals-22-1098,,,,

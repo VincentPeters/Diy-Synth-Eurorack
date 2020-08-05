@@ -1,0 +1,7 @@
+Id,Designator,Package,Quantity,Designation,Supplier and ref,,
+1,"SW1,SW2,SW3,SW4",SPDT SWITCH ON-ON,4,INV’s,https://www.rapidonline.com/salecom-t8013-sebq-h-spdt-on-none-on-min-toggle-switch-75-0083,,
+2,"SW5,SW6,SW7,SW8",DPDT SWITCH ON-ON,4,MUTES,https://www.rapidonline.com/salecom-t8011-sebq-h-dpdt-on-on-min-toggle-switch-75-0087,,
+9,"RV1,RV2,RV3,RV4,RV5",Potentiometer_Alps_RK09K,5,B100k,https://www.thonk.co.uk/shop/alpha-9mm-pots/,,
+14,"R64,R63,R62,R61",Resistor (preferable metal film 0.25W),4,1K,,,
+15,"J18,J19,J20,J21",PinHeader_1x08_P2.54mm_Vertical,4,Daughter Brd CONNECT,,,
+19,"D5,D6,D7,D8,D9,D10,D11,D12",LED_D5.0mm,8,LED’s,https://www.rapidonline.com/kingbright-l-7113src-dv-5mm-super-bright-red-led-1600mcd-55-0131,,

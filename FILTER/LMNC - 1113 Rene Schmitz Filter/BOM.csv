@@ -1,0 +1,29 @@
+Designator,Package,Quantity,Designation,LINKS
+"C1,C6,C16",Ceramic Capacitor,3,1nf,https://www.rapidonline.com/suntan-ts170r2a102ksbba0r-1000pf-10-100v-x7r-2-54mm-radial-ceramic-capacitor-11-3434
+"C4,C5",Elecrolytic Capacitor,2,10uf,https://www.rapidonline.com/forever-10uf-20-35v-105-c-p-2mm-radial-electrolytic-capacitor-11-1220
+C8,Ceramic Capacitor,1,4n7,https://www.rapidonline.com/suntan-ts170r2a472ksbba0r-4700pf-10-100v-x7r-2-54mm-radial-ceramic-capacitor-11-3438
+C9,Ceramic Capacitor,1,470nf,https://www.rapidonline.com/suntan-ts170r1h474msbfa0r-0-47uf-20-50v-y5v-2-54mm-radial-ceramic-capacitor-11-3424
+CUTOFF1,Alpha Pot ,1,4K7 linear,https://www.thonk.co.uk/shop/alpha-9mm-pots/
+"CV1,CV2,INPUT1,INPUT2,INPUT3, RES",Alpha Pot ,6,100K linear,https://www.thonk.co.uk/shop/alpha-9mm-pots/
+D1,LED 5.0mm,1,LED,https://www.rapidonline.com/kingbright-l-53id-5mm-red-led-diffused-50mcd-55-0864
+D2,LED 5.0mm,1,LED,https://www.rapidonline.com/kingbright-l-53id-5mm-red-led-diffused-50mcd-55-0864
+"D13,D14",DIODE 1N4004,2,1N4004,https://www.rapidonline.com/dc-components-1n4004-1a-400v-silicon-rectifier-diode-47-3136
+HPF/LPF1,Miniature DPDT toggle switch,1,SW_DPDT_x2,https://www.rapidonline.com/salecom-t8011-sebq-h-dpdt-on-on-min-toggle-switch-75-0087
+"J1,J2,J4,J5,J6,J7,J8",2 Pin Molex (or just solder directly),7,,
+J3,EURORACK STYLE POWER CONNECTOR,1,POWER,https://www.rapidonline.com/truconnect-10-way-idc-straight-boxed-header-2-54mm-pitch-19-0033
+"J1,J2,J3,J4,J5,J6,J7,J8",6.35mm Jack Sockets,7,,https://www.rapidonline.com/truconnect-3-pole-box-style-jack-socket-20-1397
+"Q1,Q2",Transistor BC558,2,BC558,https://www.ebay.co.uk/itm/BC558B-PNP-Small-Signal-Silicon-Transistors-Pack-of-5-10-20-or-50/162073847340?hash=item25bc5aa62c:m:m8yF2HCg3Hyszej_X5lQQBw
+"R1,R9,R10,R40,R41,R42,R43",Metal Film Resistor (or any it doesn’t really matter),7,100k,
+"R2,R44",Metal Film Resistor (or any it doesn’t really matter),2,1K8,
+"R3,R4",Metal Film Resistor (or any it doesn’t really matter),2,10R,
+"R8,R11,R24,R26",Metal Film Resistor (or any it doesn’t really matter),4,220R,
+"R14,R16,R25,R28,R30",Metal Film Resistor (or any it doesn’t really matter),5,10K,
+R18,Metal Film Resistor (or any it doesn’t really matter),1,470K,
+R5,Metal Film Resistor (or any it doesn’t really matter),1,4K7,
+U5,TL074,1,TL074,https://www.rapidonline.com/Catalogue/Search?Query=tl074
+U6,LM13700,1,LM13700,https://www.rapidonline.com/Catalogue/Search?Query=LM13700
+RV1,Preset Potentiometer,1,10K TRIMPOT,https://www.rapidonline.com/suntan-tsr-3296w-103r-10k-wr3296w-10-3-8-cermet-trimmer-pot-68-1946
+KNOBS 6 MEDIUM,,,,https://www.rapidonline.com/sci-rn-113b-line-indicator-control-knob-30mm-32-0110
+KNOB 1 BIGUN,,,,https://www.rapidonline.com/sci-rn-114b-arrow-control-knob-37mm-32-0120
+IC SOCKET 14 PIN,,,,https://www.rapidonline.com/preci-dip-110-83-314-41-001101-2-54mm-gold-plated-ic-socket-14-pins-51-8926
+IC SOCKET 16 PIN,,,,https://www.rapidonline.com/preci-dip-110-83-316-41-001101-2-54mm-gold-plated-ic-socket-16-pins-51-8927
