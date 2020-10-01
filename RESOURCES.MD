@@ -1,22 +1,31 @@
 #List of resources
 
-# forums
+# Forums
  - https://electro-music.com/forum/forum-112.html
  - https://www.muffwiggler.com/forum/index.php
+
+## Blogs
+
+- https://soundbender36.wordpress.com/sommaire-synthetiseur-modulaire-diy/ (French)
+- https://abtsynth.blogspot.com/ 
+
+## Youtube
+
+- https://www.youtube.com/playlist?list=PLyE56WXw0_5Q5QGMEXWmskuhojKyRdA3T ( DIY Modular in a Week )
+- https://www.youtube.com/watch?v=LfQ3woQ3Kn8&feature=youtu.be ( Designing a Eurorack Sequencer )
+
+## Eurorack schematics
+
+- http://dintree.com/
+- https://www.haraldswerk.de/
+- http://familjenronnberg.se/~niklas/diy.php 
+- https://github.com/chrisbeckstrom/diy_modular_synthesizer/ 
  
-# Electronics
+# Electronics general
+
 - http://www.allaboutcircuits.com
 - http://www.kpsec.freeuk.com
 - http://electronotes.netfirms.com/
-
-## DIY modules resources
-
-- http://dintree.com/
-- https://soundbender36.wordpress.com/sommaire-synthetiseur-modulaire-diy/
-- http://familjenronnberg.se/~niklas/diy.php
-- https://abtsynth.blogspot.com/
-- https://github.com/chrisbeckstrom/diy_modular_synthesizer/
-
 
 ## Otto's Diy CookBook
 
