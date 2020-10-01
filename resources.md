@@ -9,6 +9,14 @@
 - http://www.kpsec.freeuk.com
 - http://electronotes.netfirms.com/
 
+## DIY modules resources
+
+- http://dintree.com/
+- https://soundbender36.wordpress.com/sommaire-synthetiseur-modulaire-diy/
+- http://familjenronnberg.se/~niklas/diy.php
+- https://abtsynth.blogspot.com/
+- https://github.com/chrisbeckstrom/diy_modular_synthesizer/
+
 
 ## Otto's Diy CookBook
 
