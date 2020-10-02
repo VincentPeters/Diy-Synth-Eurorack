@@ -6,6 +6,7 @@
 
 ## Blogs
 
+- http://modular.ob1techno.com/
 - https://soundbender36.wordpress.com/sommaire-synthetiseur-modulaire-diy/ (French)
 - https://abtsynth.blogspot.com/ 
 
