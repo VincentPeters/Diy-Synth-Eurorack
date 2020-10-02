@@ -9,6 +9,7 @@
 - http://modular.ob1techno.com/
 - https://soundbender36.wordpress.com/sommaire-synthetiseur-modulaire-diy/ (French)
 - https://abtsynth.blogspot.com/ 
+- https://syntherjack.net/
 
 ## Youtube
 
@@ -19,7 +20,9 @@
 
 - http://dintree.com/
 - https://www.haraldswerk.de/
+- http://paperpcb.dernulleffekt.de/doku.php?id=paper_synth:paper_synth_main
 - http://familjenronnberg.se/~niklas/diy.php 
+- http://www.bartonmusicalcircuits.com/synthstuff.html
 - https://github.com/chrisbeckstrom/diy_modular_synthesizer/ 
  
 # Electronics general
