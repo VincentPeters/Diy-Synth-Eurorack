@@ -10,6 +10,7 @@
 - https://soundbender36.wordpress.com/sommaire-synthetiseur-modulaire-diy/ (French)
 - https://abtsynth.blogspot.com/ 
 - https://syntherjack.net/
+- https://synthnerd.wordpress.com/
 
 ## Youtube
 
