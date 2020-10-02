@@ -16,6 +16,15 @@
 - https://www.youtube.com/playlist?list=PLyE56WXw0_5Q5QGMEXWmskuhojKyRdA3T ( DIY Modular in a Week )
 - https://www.youtube.com/watch?v=LfQ3woQ3Kn8&feature=youtu.be ( Designing a Eurorack Sequencer )
 
+## Facebook
+
+- https://www.facebook.com/groups/436675570022014/
+- https://www.facebook.com/groups/549267875688193/
+- https://www.facebook.com/groups/homemadeinstruments/
+- https://www.facebook.com/groups/1677419455833872/
+- https://www.facebook.com/groups/1716364098644678/
+- https://www.facebook.com/groups/synthdiy/
+
 ## Eurorack schematics
 
 - http://dintree.com/
